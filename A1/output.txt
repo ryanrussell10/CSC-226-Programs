@@ -1,0 +1,15 @@
+Incorrect in Case 0: returned 0 instead of the correct answer 27
+Incorrect in Case 1: returned 0 instead of the correct answer 26
+Incorrect in Case 2: returned 0 instead of the correct answer 24
+Incorrect in Case 3: returned 0 instead of the correct answer 26
+Incorrect in Case 4: returned 0 instead of the correct answer 20
+Incorrect in Case 5: returned 0 instead of the correct answer 25
+Incorrect in Case 6: returned 0 instead of the correct answer 23
+Incorrect in Case 7: returned 0 instead of the correct answer 23
+Incorrect in Case 8: returned 0 instead of the correct answer 27
+Incorrect in Case 9: returned 0 instead of the correct answer 26
+Incorrect in Case 10: returned 0 instead of the correct answer 24
+Incorrect in Case 11: returned 0 instead of the correct answer 26
+Incorrect in Case 12: returned 0 instead of the correct answer 24
+Incorrect in Case 13: returned 0 instead of the correct answer 24
+Incorrect in Case 14: returned 0 instead of the correct answer 26
